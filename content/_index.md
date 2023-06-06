@@ -19,14 +19,31 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
+        - Java
+          description: 70%
+          icon: mug-saucer
+          icon_pack: fab
+        - Python
+          description: 90%
+          icon: python
+          icon_pack: fab
+        - Git
+          description: 80%
+          icon: code-branch
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Photography/Videography
+          description: 30%
           icon: camera-retro
           icon_pack: fas
+        - name: HTML & CSS
+          description: 80%
+          icon: html5
+          icon_pack: fab
+          
   - block: experience
     content:
       title: Experience
