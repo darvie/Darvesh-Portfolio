@@ -59,8 +59,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/darvesh-dhillon-6063b9142/
-  - icon: dplogo
-    icon_pack: dplogo
+  - icon: dp
     link: https://distractionsperfected.com/home
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
