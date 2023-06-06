@@ -19,15 +19,15 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - Java
+        - name: Java
           description: 70%
           icon: mug-saucer
           icon_pack: fab
-        - Python
+        - name: Python
           description: 90%
           icon: python
           icon_pack: fab
-        - Git
+        - name: Git
           description: 80%
           icon: code-branch
           icon_pack: fab
