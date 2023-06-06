@@ -30,7 +30,7 @@ interests:
   - Data Wrangling
   - Information Retrieval
   - Website development
-  - Database Engineering/Administration
+  - Database Engineering / Administration
 
 # Education to show in About widget
 education:
@@ -73,5 +73,5 @@ email: 'work@sdhillon.ca'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Darvesh is a student of Psychology and Data Science at the University of British Columbia. He is passionate about computers and technology. His interests lie among Research, Artificial Intelligence, Mobile Computing, Programmable Matter and Database Engineering / Administration. Among his free time, he is an avid card collector, magic enthusiast, and is the CEO of a successful startup, Distractions Perfected.
 {style="text-align: justify;"}
