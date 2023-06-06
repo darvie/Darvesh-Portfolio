@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Cyberpunk
-  theme_night: Cyberpunk
-  font: Cyberpunk
+  theme_day: cyberpunk
+  theme_night: cyberpunk
+  font: cyberpunk
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A resume for Darvesh Singh Dhillon, featuring all his personal accomplishments.'
+    twitter: 'DarveshS'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,9 +32,9 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
